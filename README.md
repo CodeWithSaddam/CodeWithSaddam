@@ -9,6 +9,7 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 - 🌱 &nbsp; I’m currently learning Typescript, Node.js, React and React Native.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 - 🎓 &nbsp; Studying Profit with JavaScript   at https://www.cleverprogrammer.com/.
+- 🎓 &nbsp; Studying Profit with JavaScript   at https://www.edx.org/course/cs50s-introduction-to-computer-science.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms.
 - ⚡ &nbsp; Fun fact:  First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
