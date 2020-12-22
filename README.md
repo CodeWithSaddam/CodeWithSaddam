@@ -10,7 +10,7 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 - 🎓 &nbsp; Studying Profit with JavaScript   at https://www.cleverprogrammer.com/.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms.
-- ⚡ Fun fact: ...
+- ⚡ &nbsp; Fun fact:  First solve the problem, then write the code :heart:.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
