@@ -1,10 +1,8 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Saddam Arbaa.</h2>
 
-I'm a passionate self-taught who is passionate about writing code, solving problems, automating stuff, and building software.
-
-
+I'm a self-taught who is passionate about writing code, solving problems, automating stuff, and building software.
 
 
 <h3> 👨🏻‍💻 &nbsp; More About Me </h3>
@@ -14,6 +12,9 @@ I'm a passionate self-taught who is passionate about writing code, solving probl
 - 👯 &nbsp; I’m looking to collaborate on a tech project.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms.
+- 🌱 &nbsp; Learning more about Data Structures and Algorithms.
+- 🤔 I’m looking for help with ...
+- ⚡ Fun fact: ...
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -84,43 +85,3 @@ I'm a passionate self-taught who is passionate about writing code, solving probl
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/weltonpfelix/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**CodeWithSaddam/CodeWithSaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
