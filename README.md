@@ -8,13 +8,12 @@ I'm a passionate self-taught who is passionate about writing code, solving probl
 
 
 <h3> 👨🏻‍💻 &nbsp; More About Me </h3>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- :books: I’m currently learning Typescript, Node.js, React and React Native.
-  🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on a tech project integrating IoT and Machine Learning
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 &nbsp; I’m currently learning Typescript, Node.js, React and React Native.
+- 👯 &nbsp; I’m looking to collaborate on a tech project.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🌱 &nbsp; Learning more about Data Structures and Algorithms.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
