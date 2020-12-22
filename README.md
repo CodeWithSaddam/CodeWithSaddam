@@ -1,19 +1,17 @@
 <h2> Hey there! I'm Saddam Arbaa.</h2>
 
-I'm a self-taught who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a self-taught front-end developer who is passionate about writing code, solving problems, automating stuff, React App.
 
 
 <h3> 👨🏻‍💻 &nbsp; More About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; I’m currently learning Typescript, Node.js, React and React Native.
-- 👯 &nbsp; I’m looking to collaborate on a tech project.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
+- 🎓 &nbsp; Studying Profit with JavaScript   at https://www.cleverprogrammer.com/.
 - 🌱 &nbsp; Learning more about Data Structures and Algorithms.
-- 🌱 &nbsp; Learning more about Data Structures and Algorithms.
-- 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
