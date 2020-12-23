@@ -52,7 +52,7 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sass%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 
 
 
