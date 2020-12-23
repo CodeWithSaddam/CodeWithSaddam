@@ -64,6 +64,11 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
+<br/>
+
+<a href="mailto:saddamarbaas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saddamarbaas@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+<br/>
 
 
 
