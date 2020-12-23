@@ -66,7 +66,7 @@ I'm a self-taught front-end developer who is passionate about writing code, solv
 
 
 <!--TODO -->
-<!- will add my webside blow here ->
+<!-- will add my webside blow here -->
 <!--
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 -->
