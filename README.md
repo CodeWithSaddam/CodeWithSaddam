@@ -1,7 +1,7 @@
 ###
-<h2>  Hi there! 👋 I'm Saddam Arbaa.</h2>
+<h2>  Hi there! 👋 I'm Saddam Arbaa from Sudan.</h2>
 
-I'm a self-taught front-end developer who is passionate about writing code, solving problems, automating stuff, building react App.
+Hi, I'm Saddam Arbaa, a self-taught frontEnd web developer who is passionate about writing code, solving problems, automating stuff, building react App.
 
 <h3> 👨🏻‍💻 &nbsp; More About Me </h3>
 
